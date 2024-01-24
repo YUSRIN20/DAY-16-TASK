@@ -14,7 +14,7 @@ This GitHub repository showcases a JavaScript implementation of a countdown time
 * **Asynchronous JavaScript:** Gain insights into handling asynchronous operations in JavaScript, specifically with the use of the `setTimeout` method for timed delays.
 * **Readability Considerations:** Understand the trade-offs in readability and maintainability associated with callback hell and how it contrasts with alternative code structures.
   
-**Deployed source code link👇**
+**Deployed Url link👇**
 
 If you wanna try this application **[Click Here](https://callback-hell-demo.netlify.app/)**
 
