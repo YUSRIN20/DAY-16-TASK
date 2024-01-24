@@ -18,5 +18,3 @@ This GitHub repository showcases a JavaScript implementation of a countdown time
 
 If you wanna try this application **[Click Here](https://callback-hell-demo.netlify.app/)**
 
-
- **I Attached the Output Image in Below👇**
